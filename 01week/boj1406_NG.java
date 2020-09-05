@@ -1,9 +1,7 @@
-package baekjoon.codePlus.algBasic1.prob1406;
-
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Main2 {
+public class Main {
 
 	public static void main(String[] args) {
 		
