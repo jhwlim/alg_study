@@ -1,3 +1,6 @@
+// 시간 복잡도 개선
+// 또 하나의 리스트를 생성하여, stack에 저장할 때의 최소값을 저장한다.
+// 최소값을 찾을 때, 검색 시간을 줄일 수 있음.
 class MinStack {
 
     List<Integer> sList = null;
