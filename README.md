@@ -25,7 +25,7 @@
 #2309       | 일곱난쟁이        | P | [#2309](05week/boj/code.plus/500_bruteforce/boj2309.java)
 #3085       | 사탕 게임         | - | 
 #1476       | 날짜 계산         | P | [#3085](05week/boj/code.plus/500_bruteforce/boj1476.java)<br>[#3085_중국인의 나머지정리](05week/boj/code.plus/500_bruteforce/boj1476_ChineseRemainderTheorem.java)
-#1107       | 리모컨            | F |
+#1107       | 리모컨            | FFFFFP | [#1107_bad](05week/boj/code.plus/500_bruteforce/boj1107.java)
 #14500      | 테트로미노        | F |
 #6064       | 카잉 달력         | P | [#6064_중국인의 나머지정리](05week/boj/code.plus/500_bruteforce/boj6064_ChineseRemainderTheorem.java)
 #1748       | 수 이어 쓰기 1    | FP | [#1748](05week/boj/code.plus/500_bruteforce/boj1748.java)
