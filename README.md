@@ -57,4 +57,4 @@
 #10974 | 모든 순열 | - |
 #10819 | 차이를 최대로 | FP | [#10819](06week/boj/code.plus/520_bruteforce/boj10819.java)
 #10971 | 외판원 순회 2 | - |
-#6603 | 로또 | - |
+#6603 | 로또 | P | [#6603](06week/boj/code.plus/520_bruteforce/boj6603.java)

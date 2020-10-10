@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Arrays;
 
-// #1107. 리모컨 ; need to improve
+// #1107. 리모컨 ; memory, time is bad -> need to improve!
 public class Main {
 
 	public static void main(String[] args) throws IOException {
