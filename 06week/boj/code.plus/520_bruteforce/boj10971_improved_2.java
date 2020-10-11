@@ -8,7 +8,7 @@ import java.util.Arrays;
 // #10971. 외판원 순회 2 : code refactoring (2)
 // 발생 가능한 케이스 전부에 대하여 합을 구하여 최소값을 찾기.
 // 케이스를 구하는 과정에서 합을 구함.
-// 합을 구하는 과정에서 이전까지의 케이스의 최소값과 비교하여 더 크다면 Pass(시간 단축)
+// 합을 구하는 과정에서 이전까지의 케이스의 최소값과 비교하여 더 크다면 Pass. (시간 단축)
 public class Main {
 	
 	static int min = Integer.MAX_VALUE;

@@ -5,6 +5,8 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
 // #10971. 외판원 순회 2
+// 발생 가능한 케이스 전부에 대하여 합을 구하여 최소값을 찾기.
+// 마지막에 다시 반복문을 사용하여 합을 구함.
 public class Main {
 	
 	static int min = Integer.MAX_VALUE;
