@@ -38,8 +38,8 @@
 문제 번호   | 제목              | Pass / Fail | My Code
 :----------:|:----------------:|:-----------:|:--------:
 #15649 | N과 M (1) | P | [#15649](06week/boj/code.plus/510_bruteforce/boj15649.java)
-#15650 | N과 M (2) | - | 
-#15651 | N과 M (3) | - | 
+#15650 | N과 M (2) | P | [#15650](06week/boj/code.plus/510_bruteforce/boj15650.java)
+#15651 | N과 M (3) | P | [#15651](06week/boj/code.plus/510_bruteforce/boj15651.java)
 #15652 | N과 M (4) | - | 
 #15654 | N과 M (5) | - | 
 #15655 | N과 M (6) | P | [#15655](06week/boj/code.plus/510_bruteforce/boj15655.java)
