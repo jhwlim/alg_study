@@ -48,7 +48,7 @@
 #15663 | N과 M (9) | FP | [#15663](06week/boj/code.plus/510_bruteforce/boj15663.java)
 #15664 | N과 M (10) | - | 
 #15665 | N과 M (11) | - | 
-#15666 | N과 M (12) | - | 
+#15666 | N과 M (12) | P | [#15666](06week/boj/code.plus/510_bruteforce/boj15666.java)
 
 <br>
 
@@ -58,7 +58,7 @@
 :----------:|:----------------:|:-----------:|:--------:
 #10972 | 다음 순열 | P | [#10972](06week/boj/code.plus/520_bruteforce/boj10972.java)
 #10973 | 이전 순열 | FFP | [#10973](06week/boj/code.plus/520_bruteforce/boj10973.java)
-#10974 | 모든 순열 | - |
+#10974 | 모든 순열 | - | <font color="#D8D8D8">510_N과 M 문제들과 유사</color>
 #10819 | 차이를 최대로 | FP | [#10819](06week/boj/code.plus/520_bruteforce/boj10819.java)
 #10971 | 외판원 순회 2 | FP | [#10971](06week/boj/code.plus/520_bruteforce/boj10971.java) <br> [#10971_improved(1)](06week/boj/code.plus/520_bruteforce/boj10971_improved_1.java) <br> [#10971_improved(2)](06week/boj/code.plus/520_bruteforce/boj10971_improved_2.java)
 #6603 | 로또 | P | [#6603](06week/boj/code.plus/520_bruteforce/boj6603.java)
