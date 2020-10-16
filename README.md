@@ -56,7 +56,7 @@
 
 문제 번호   | 제목              | Pass / Fail | My Code
 :----------:|:----------------:|:-----------:|:--------:
-#10972 | 다음 순열 | - | 
+#10972 | 다음 순열 | P | [#10972](06week/boj/code.plus/520_bruteforce/boj10972.java)
 #10973 | 이전 순열 | FFP | [#10973](06week/boj/code.plus/520_bruteforce/boj10973.java)
 #10974 | 모든 순열 | - |
 #10819 | 차이를 최대로 | FP | [#10819](06week/boj/code.plus/520_bruteforce/boj10819.java)
