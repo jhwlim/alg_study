@@ -79,10 +79,11 @@
 :----------:|:----------------:|:-----------:|:--------:
 #13023 | ABCDE |
 #1260 | DFS와 BFS | FFP | [#1260](08week/boj/code.plus/600_graph1/boj1260.java)
-#11724 | 연결 요소의 개수 |
+#11724 | 연결 요소의 개수 | FP | [#11724](08week/boj/code.plus/600_graph1/boj11724.java)
 #1707 | 이분 그래프 |
 #2667 | 단지번호붙이기 |
-#4963 | 섬의 개수 |
-#2178 | 미로 탐색 |
+#4963 | 섬의 개수 | P | [#4963](08week/boj/code.plus/600_graph1/boj4963.java)
+#2178 | 미로 탐색 | FFFFFP | [#2178](08week/boj/code.plus/600_graph1/boj2178.java)
 #7576 | 토마토 |
-#7562 | 나이트의 이동 |
+#7562 | 나이트의 이동 | PP | [#7562](08week/boj/code.plus/600_graph1/boj7562.java) <br>
+[#7562_improved](08week/boj/code.plus/600_graph1/boj7562_improved.java)
