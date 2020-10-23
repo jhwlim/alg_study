@@ -85,5 +85,4 @@
 #4963 | 섬의 개수 | P | [#4963](08week/boj/code.plus/600_graph1/boj4963.java)
 #2178 | 미로 탐색 | FFFFFP | [#2178](08week/boj/code.plus/600_graph1/boj2178.java)
 #7576 | 토마토 |
-#7562 | 나이트의 이동 | PP | [#7562](08week/boj/code.plus/600_graph1/boj7562.java) <br>
-[#7562_improved](08week/boj/code.plus/600_graph1/boj7562_improved.java)
+#7562 | 나이트의 이동 | PP | [#7562](08week/boj/code.plus/600_graph1/boj7562.java) <br> #7562_improved](08week/boj/code.plus/600_graph1/boj7562_improved.java)
