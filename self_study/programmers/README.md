@@ -33,7 +33,7 @@
 | 제목(Link) | Level | Pass / Fail | My Code
 :-:|:-:|:-:|:-:|
 [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | 2 | P | [target_number](dfs_bfs/target_number.java)
-[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | 3 |  | 
+[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | 3 | P | [network](dfs_bfs/network.java)
 [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | 3 |  | 
 [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | 3 | |
 
