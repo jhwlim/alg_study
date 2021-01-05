@@ -1,4 +1,4 @@
-# 알고리즘 스터디 ('20.8/30~)
+# 백준
 
 ## [[백준] code.plus](https://www.acmicpc.net/workbook/codeplus)
 
