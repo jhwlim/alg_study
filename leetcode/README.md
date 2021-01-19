@@ -2,4 +2,5 @@
 
 | # | Title(Link) | Defficulty | Pass / Fail | My Code
 :-:|:-:|:-:|:-:|:-:|
-22 | Generate Parentheses | Medium | P | [leetcode22](backtracking/leetcode22.java)
+7 | Reverse Integer | Easy | P | [leetcode007](_problems/#000/prob007-math-easy.java)
+22 | Generate Parentheses | Medium | P | [leetcode022](backtracking/leetcode22.java)
