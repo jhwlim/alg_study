@@ -1,7 +1,8 @@
 ## [[Leetcode] Problems](https://leetcode.com/problemset/all/)
 
-| # | Title(Link) | Defficulty | Pass / Fail | My Code
-:-:|:-:|:-:|:-:|:-:|
+| # | Title | Difficulty | Pass / Fail | My Code | Note
+:-:|:--|:-:|:-:|:-:|:--
+5 | Longest Palindromic Substring | Medium | P<br> | [solution of O(n^2)](_problems/prob001-100/prob005-string_dp-medium_1.java) | try solution of O(n)
 7 | Reverse Integer | Easy | FP | [solution](_problems/prob001-100/prob007-math-easy.java)
 9 | Palindrome Number | Easy | P | [solution](_problems/prob001-100/prob009-math-easy.java)
 13 | Roman to Integer | Easy | P | [solution](_problems/prob001-100/prob013-math_string-easy.java)
