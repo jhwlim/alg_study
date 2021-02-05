@@ -1,5 +1,6 @@
 ## [[Leetcode] Problems](https://leetcode.com/problemset/all/)
 
+### #001~100
 | # | Title | Difficulty | Pass / Fail | My Code | Note
 :-:|:--|:-:|:-:|:-:|:--
 5 | Longest Palindromic Substring | Medium | P<br> | [solution of O(n^2)](_problems/prob001-100/prob005-string_dp-medium_1.java) | **need to be improved**
@@ -14,3 +15,8 @@
 27 | Remove Element | Easy | P | [solution](_problems/prob001-100/prob027-array_twopointers-easy.java)
 53 | Maximum Subarray | Easy | FFP | [solution](_problems/prob001-100/prob053-dp_divide&conquer-easy.java) | **need to be improved**
 70 | Climbing Stairs | Easy | FP | [solution](_problems/prob001-100/prob070-dp-easy.java)
+
+### #101~200
+| # | Title | Difficulty | Pass / Fail | My Code | Note
+:-:|:--|:-:|:-:|:-:|:--
+121 | Best Time to Buy and Sell Stock | Easy | P | [solution](_problems/prob101-200/prob121-dp_array-easy.java)
