@@ -9,7 +9,7 @@
 9 | Palindrome Number | Easy | P | [solution](_problems/prob001-100/prob009-math-easy.java)
 13 | Roman to Integer | Easy | P | [solution](_problems/prob001-100/prob013-math_string-easy.java)
 14 | Longest Common Prefix | Easy | P | [solution](_problems/prob001-100/prob014-string-easy.java)
-17 | Letter Combinations of a Phone Number | Medium | P | [solution](_problems/prob001-100/prob017-dfs_backtracking-easy.java)
+17 | Letter Combinations of a Phone Number | Medium | P | [solution](_problems/prob001-100/prob017-dfs_backtracking-medium.java)
 20 | Valid Parentheses | Easy | FP <br> P | [solution1](_problems/prob001-100/prob020-string_stack-easy_1.java) <br> [solution2](_problems/prob001-100/prob020-string_stack-easy_2.java)
 21 | Merge Two Sorted Lists | Easy | P <br> P | [solution1](_problems/prob001-100/prob021-linkedlist_recursion-easy_1.java) <br> [solution2](_problems/prob001-100/prob021-linkedlist_recursion-easy_2.java)
 22 | Generate Parentheses | Medium | P | [solution](backtracking/leetcode22.java)
@@ -19,6 +19,7 @@
 35 | Search Insert Position | Easy | P | [solution](_problems/prob001-100/prob035-array_binarysearch-easy.java)
 38 | Count and Say | Easy | P | [solution](_problems/prob001-100/prob038-string-easy.java)
 53 | Maximum Subarray | Easy | FFP | [solution](_problems/prob001-100/prob053-dp_divide&conquer-easy.java) | **need to be improved**
+55 | Jump Game | Medium | P | [solution](_problems/prob001-100/prob055-greedy-medium.java) | 
 58 | Length of Last Word | Easy | FP | [solution](_problems/prob001-100/prob058-string-easy.java) | 
 66 | Plus One | Easy | P | [solution](_problems/prob001-100/prob066-array-easy.java) | 
 70 | Climbing Stairs | Easy | FP | [solution](_problems/prob001-100/prob070-dp-easy.java)
