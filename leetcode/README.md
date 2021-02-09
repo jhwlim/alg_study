@@ -22,6 +22,7 @@
 55 | Jump Game | Medium | P | [solution](_problems/prob001-100/prob055-greedy-medium.java) | 
 58 | Length of Last Word | Easy | FP | [solution](_problems/prob001-100/prob058-string-easy.java) | 
 66 | Plus One | Easy | P | [solution](_problems/prob001-100/prob066-array-easy.java) | 
+67 | Add Binary | Easy | FP | [solution](_problems/prob001-100/prob067-math_string-easy.java)
 70 | Climbing Stairs | Easy | FP | [solution](_problems/prob001-100/prob070-dp-easy.java)
 100 | Same Tree | Easy | P | [solution](_problems/prob001-100/prob100-dfs_tree-easy.java)
 
