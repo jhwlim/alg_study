@@ -7,6 +7,7 @@
 6 | ZigZag Conversion | Medium | P | [solution](_problems/prob001-100/prob006-string-medium.java) |
 7 | Reverse Integer | Easy | FP | [solution](_problems/prob001-100/prob007-math-easy.java)
 9 | Palindrome Number | Easy | P | [solution](_problems/prob001-100/prob009-math-easy.java)
+11 | Container With Most Water | Medium | P | [solution](_problems/prob001-100/prob011-array_twopointers-medium.java)
 13 | Roman to Integer | Easy | P | [solution](_problems/prob001-100/prob013-math_string-easy.java)
 14 | Longest Common Prefix | Easy | P | [solution](_problems/prob001-100/prob014-string-easy.java)
 17 | Letter Combinations of a Phone Number | Medium | P | [solution](_problems/prob001-100/prob017-dfs_backtracking-medium.java)
