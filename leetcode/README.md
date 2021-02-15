@@ -27,6 +27,7 @@
 69 | Sqrt(x) | Easy | FFP | [solution](_problems/prob001-100/prob069-math_binarysearch-easy.java) | **Newton-Raphson Method** or **Binary Search**
 70 | Climbing Stairs | Easy | FP | [solution](_problems/prob001-100/prob070-dp-easy.java)
 83 | Remove Duplicates from Sorted List | Easy | P | [solution](_problems/prob001-100/prob083-linkedlist-easy.java)
+88 | Merge Sorted Array | Easy | P | [solution](_problems/prob001-100/prob088-array_twopointers-easy.java)
 100 | Same Tree | Easy | P | [solution](_problems/prob001-100/prob100-dfs_tree-easy.java)
 
 
