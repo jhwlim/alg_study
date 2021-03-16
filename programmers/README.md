@@ -24,6 +24,8 @@
 | 제목(Link) | Level | Pass / Fail | My Code
 :-:|:-:|:-:|:-:|
 [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 1 | P | [gym_clothes](greedy/gym_clothes.java)
+[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | 2 | P | [joystick](greedy/joystick.java)
+
 ---
 
 ### 동적계획법(Dynamic Programming)
