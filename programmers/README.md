@@ -29,6 +29,9 @@
 ---
 
 ### 동적계획법(Dynamic Programming)
+| 제목(Link) | Level | Pass / Fail | My Code
+:-:|:-:|:-:|:-:|
+[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | 3 | P | [integer_triangle](dp/integer_triangle.java)
 
 ---
 
