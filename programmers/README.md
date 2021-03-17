@@ -2,6 +2,10 @@
 
 ### 해시
 
+| 제목(Link) | Level | Pass / Fail | My Code
+:-:|:-:|:-:|:-:|
+[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 1 | P | [player_not_finished](hash/player_not_finished.java)
+
 ### 스택/큐
 
 ### 힙(Heap)
