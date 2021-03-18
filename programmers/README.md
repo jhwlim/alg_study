@@ -36,6 +36,7 @@
 | 제목(Link) | Level | Pass / Fail | My Code
 :-:|:-:|:-:|:-:|
 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | 3 | P | [integer_triangle](dp/integer_triangle.java)
+[등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | 3 | P | [way_to_school](dp/way_to_school.java)
 
 ---
 
