@@ -1,5 +1,6 @@
 import java.util.*;
 
+// 동적계획법 > 등굣길
 class Solution {
     
     final int NUM = 1000000007;
