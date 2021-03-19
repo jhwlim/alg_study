@@ -7,15 +7,25 @@
 [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 1 | P | [player_not_finished](hash/player_not_finished.java)
 [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | 2 | F<br>P | [phone_number_list_timeover](hash/phone_number_list_timeover.java)<br>[phone_number_list](hash/phone_number_list.java)
 
+---
+
 ### 스택/큐
+| 제목(Link) | Level | Pass / Fail | My Code
+:-:|:-:|:-:|:-:|
+[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | 2 | P | [stock_price](stack_queue/stock_price.java)
+
+---
 
 ### 힙(Heap)
+
+---
 
 ### 정렬
 
 | 제목(Link) | Level | Pass / Fail | My Code
 :-:|:-:|:-:|:-:|
 [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 1 | P | [kth_number](sort/kth_number.java)
+[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 2 | P | [largest_number](sort/largest_number.java)
 
 ---
 
