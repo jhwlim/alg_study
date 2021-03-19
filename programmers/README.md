@@ -13,6 +13,10 @@
 
 ### 정렬
 
+| 제목(Link) | Level | Pass / Fail | My Code
+:-:|:-:|:-:|:-:|
+[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 1 | P | [kth_number](sort/kth_number.java)
+
 ---
 
 ### [완전탐색](https://programmers.co.kr/learn/courses/30/parts/12230)
