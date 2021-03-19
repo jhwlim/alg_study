@@ -30,6 +30,9 @@
 :-:|:-:|:-:|:-:|
 [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 1 | P | [gym_clothes](greedy/gym_clothes.java)
 [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | 2 | P | [joystick](greedy/joystick.java)
+[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | 2 | P | [make_large_number](greedy/make_large_number.java)
+
+
 
 ---
 
