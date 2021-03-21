@@ -13,6 +13,7 @@
 | 제목(Link) | Level | Pass / Fail | My Code
 :-:|:-:|:-:|:-:|
 [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | 2 | P | [stock_price](stack_queue/stock_price.java)
+[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | 2 | P | [printer](stack_queue/printer.java)<br>[printer_improved](stack_queue/printer_improved.java)
 
 ---
 
