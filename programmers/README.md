@@ -73,3 +73,14 @@
 ### 이분탐색
 
 ### 그래프
+
+---
+
+
+## [프로그래머스] 코딩테스트 연습 - 모든 문제
+
+### Level 1
+
+| 제목(Link) | Level | Pass / Fail | My Code | 
+:-:|:-:|:-:|:-:|
+[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 1 | P | [L1-크레인_인형뽑기_게임](all/2019_kakao_winter_internship/L1-크레인_인형뽑기_게임.java)
