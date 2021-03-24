@@ -84,3 +84,10 @@
 | 제목(Link) | Level | Pass / Fail | My Code | 
 :-:|:-:|:-:|:-:|
 [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 1 | P | [L1-크레인_인형뽑기_게임](all/2019_kakao_winter_internship/L1-크레인_인형뽑기_게임.java)
+
+
+### Level 2
+
+| 제목(Link) | Level | Pass / Fail | My Code | 
+:-:|:-:|:-:|:-:|
+[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | 2 | P | [L2-스킬트리](all/summer_winter_coding(~2018)/L2-스킬트리.java)
