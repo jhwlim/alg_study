@@ -44,4 +44,5 @@
 | # | Title | Difficulty | Pass / Fail | My Code | Note
 :-:|:--|:-:|:-:|:-:|:--
 1805 | Number of Different Integers in a String | Easy | FP | [solution](_problems/prob1801-1900/prob1805-string-easy.java) | **need to be check**
-1806 | Minimum Number of Operations to Reinitialize a Permutation | Medium | P | [solution](_problems/prob1801-1900/prob1806-array_greedy.java) | **need to be check**
+1806 | Minimum Number of Operations to Reinitialize a Permutation | Medium | P | [solution](_problems/prob1801-1900/prob1806-array_greedy-medium.java) | **need to be check**
+1807 | Evaluate the Bracket Pairs of a String | Medium | P | [solution](_problems/prob1801-1900/prob1807-string_hash-medium.java) | **need to be check**
