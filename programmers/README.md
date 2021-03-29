@@ -41,12 +41,13 @@
 ---
 
 ### 탐욕법(Greedy)
-| 제목(Link) | Level | Pass / Fail | My Code
-:-:|:-:|:-:|:-:|
+| 제목(Link) | Level | Pass / Fail | My Code | 비고
+:-:|:-:|:-:|:-:|:-:
 [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 1 | P | [gym_clothes](greedy/gym_clothes.java)
 [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | 2 | P | [joystick](greedy/joystick.java)
 [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | 2 | P | [make_large_number](greedy/make_large_number.java)
 [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | 2 | P | [boat](greedy/boat.java)
+[섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | 3 | P | [connect_island](greedy/connect_island.java)|최소 신장 트리(블로그 링크)
 
 
 
