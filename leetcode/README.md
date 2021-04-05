@@ -41,6 +41,8 @@
 104 | Maximum Depth of Binary Tree | Easy | P | [solution](_problems/prob101-200/prob104-tree_dfs-easy.java)
 121 | Best Time to Buy and Sell Stock | Easy | P | [solution](_problems/prob101-200/prob121-dp_array-easy.java)
 134 | Gas Station | Medium | P | [solution](_problems/prob101-200/prob134-greedy-medium.java) | **need to be improved**
+189 | Rotate Array | Medium | FP | [solution](_problems/prob101-200/prob189-array-medium.java)
+
 
 ---
 ### #1801~1900
