@@ -6,6 +6,7 @@
 :-:|:-:|:-:|:-:|
 [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 1 | P | [player_not_finished](hash/player_not_finished.java)
 [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | 2 | F<br>P | [phone_number_list_timeover](hash/phone_number_list_timeover.java)<br>[phone_number_list](hash/phone_number_list.java)
+[위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 2 | P | [camouflage](hash/camouflage.java)
 
 ---
 
