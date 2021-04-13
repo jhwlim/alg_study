@@ -49,7 +49,7 @@
 [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | 2 | P | [make_large_number](greedy/make_large_number.java)
 [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | 2 | P | [boat](greedy/boat.java)
 [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | 3 | P | [connect_island](greedy/connect_island.java)|최소 신장 트리(블로그 링크)
-
+[단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | 3 | P | [camera](greedy/camera.java)
 
 
 ---
