@@ -44,6 +44,13 @@
 134 | Gas Station | Medium | P | [solution](_problems/prob101-200/prob134-greedy-medium.java) | **need to be improved**
 189 | Rotate Array | Medium | FP | [solution](_problems/prob101-200/prob189-array-medium.java)
 
+---
+### #601~700
+| # | Title | Difficulty | Pass / Fail | My Code | Note
+:-:|:--|:-:|:-:|:-:|:--
+700 | Search in a Binary Search Tree | Easy | P | [solution](_problems/prob601-700/prob700-tree-easy.java)
+
+
 
 ---
 ### #1801~1900
