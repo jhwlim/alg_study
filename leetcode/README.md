@@ -31,7 +31,9 @@
 70 | Climbing Stairs | Easy | FP | [solution](_problems/prob001-100/prob070-dp-easy.java)
 83 | Remove Duplicates from Sorted List | Easy | P | [solution](_problems/prob001-100/prob083-linkedlist-easy.java)
 88 | Merge Sorted Array | Easy | P | [solution](_problems/prob001-100/prob088-array_twopointers-easy.java)
+94 | Binary Tree Inorder Traversal | Medium | P | [solution](_problems/prob001-100/prob094-tree_stack-medium.java)
 100 | Same Tree | Easy | P | [solution](_problems/prob001-100/prob100-dfs_tree-easy.java)
+
 
 
 ---
