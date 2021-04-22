@@ -3,7 +3,7 @@
 ### #001~100
 | # | Title | Difficulty | Pass / Fail | My Code | Note
 :-:|:--|:-:|:-:|:-:|:--
-5 | Longest Palindromic Substring | Medium | P<br> | [solution of O(n^2)](_problems/prob001-100/prob005-string_dp-medium_1.java) | **need to be improved**
+5 | Longest Palindromic Substring | Medium | P<br> | [solution_O(n<sup>2</sup>)](_problems/prob001-100/prob005-string_dp-medium_1.java) | **need to be improved**
 6 | ZigZag Conversion | Medium | P | [solution](_problems/prob001-100/prob006-string-medium.java) |
 7 | Reverse Integer | Easy | FP | [solution](_problems/prob001-100/prob007-math-easy.java)
 9 | Palindrome Number | Easy | P | [solution](_problems/prob001-100/prob009-math-easy.java)

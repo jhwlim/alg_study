@@ -77,6 +77,10 @@
 
 ### 그래프
 
+| 제목(Link) | Level | Pass / Fail | My Code
+:-:|:-:|:-:|:-:|
+[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | 3 | P | [farthest_node](graph/farthest_node.java)
+
 ---
 
 
