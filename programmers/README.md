@@ -19,6 +19,10 @@
 ---
 
 ### 힙(Heap)
+| 제목(Link) | Level | Pass / Fail | My Code
+:-:|:-:|:-:|:-:|
+[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 2 | P | [more_spicy](heap/more_spicy.java)
+
 
 ---
 
