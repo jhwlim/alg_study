@@ -100,3 +100,4 @@
 [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | 2 | P | [L2-스킬트리](all/summer_winter_coding(~2018)/L2-스킬트리.java)
 [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | 2 | P | [L2-튜플](all/2019_kakao_winter_internship/L2-튜플.java)
 [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | 2 | P | [L2-멀쩡한_사각형](all/2019_kakao_winter_internship/L2-멀쩡한_사각형.java) | 유클리드호제법
+[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | 2 | P | [L2-메뉴 리뉴얼](all/2021_kakao_blind_recruitment/L2-메뉴_리뉴얼.java) 
