@@ -95,7 +95,7 @@
 | 제목(Link) | Level | Pass / Fail | My Code | 
 :-:|:-:|:-:|:-:|
 [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 1 | P | [L1-크레인_인형뽑기_게임](all/2019_kakao_winter_internship/L1-크레인_인형뽑기_게임.java)
-[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | 1 | P | [L1-소수_찾기](all/etc/L1-소수_찾기.java)
+[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | 1 | P | [L1-소수_찾기](all/exercise/L1-소수_찾기.java)
 
 ### Level 2
 
@@ -106,3 +106,4 @@
 [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | 2 | P | [L2-멀쩡한_사각형](all/2019_kakao_winter_internship/L2-멀쩡한_사각형.java) | 유클리드호제법
 [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | 2 | P | [L2-메뉴_리뉴얼](all/2021_kakao_blind_recruitment/L2-메뉴_리뉴얼.java) 
 [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | 2 | P | [L2-행렬_테두리_회전하기](all/2021_dev_matching_1/L2-행렬_테두리_회전하기.java)
+[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | 2 | P | [L2-124_나라의_숫자](all/exercise/L2-124_나라의_숫자.java)
