@@ -32,6 +32,7 @@
 :-:|:-:|:-:|:-:|
 [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 1 | P | [kth_number](sort/kth_number.java)
 [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 2 | P | [largest_number](sort/largest_number.java)
+[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | 2 | P | [h-index](sort/h-index.java)
 
 ---
 
