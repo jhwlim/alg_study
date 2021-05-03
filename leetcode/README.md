@@ -54,6 +54,11 @@
 :-:|:--|:-:|:-:|:-:|:--
 215 | Kth Largest Element in an Array | medium | P<br>P | [solution_api](_problems/prob201-300/prob215-heap_divideandconquer-medium_1.java) <br> [solution_heap](_problems/prob201-300/prob215-heap_divideandconquer-medium_2.java)
 
+---
+### #501~600
+| # | Title | Difficulty | Pass / Fail | My Code | Note
+:-:|:--|:-:|:-:|:-:|:--
+559 | Maximum Depth of N-ary Tree | Easy | FP<br>P | [solution1](_problems/prob501-600/prob559-tree_dfs_bfs-easy_1.java)<br>[solution2](_problems/prob501-600/prob559-tree_dfs_bfs-easy_2.java) | 1. DFS(Stack)<br>2. 후위순회
 
 
 ---
