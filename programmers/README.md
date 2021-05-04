@@ -108,3 +108,4 @@
 [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | 2 | P | [L2-메뉴_리뉴얼](all/2021_kakao_blind_recruitment/L2-메뉴_리뉴얼.java) 
 [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | 2 | P | [L2-행렬_테두리_회전하기](all/2021_dev_matching_1/L2-행렬_테두리_회전하기.java)
 [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | 2 | P | [L2-124_나라의_숫자](all/exercise/L2-124_나라의_숫자.java)
+[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/12899) | 2 | P | [L2-오픈채팅방](all/2019_kakao_blind_recruitment/L2-오픈채팅방.java)
