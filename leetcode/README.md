@@ -56,7 +56,7 @@
 ### #201~300
 | # | Title | Difficulty | Pass / Fail | My Code | Note
 :-:|:--|:-:|:-:|:-:|:--
-207 | Course Schedule | medium | FFP | [solution_api](_problems/prob201-300/prob207-graph_dfs_bfs_topologicalsort-medium.java) | **need to be improved**
+207 | Course Schedule | medium | FFP<br>P | [solution](_problems/prob201-300/prob207-graph_dfs_bfs_topologicalsort-medium.java)<br>[solution_improved](_problems/prob201-300/prob207-graph_dfs_bfs_topologicalsort-medium_improved.java) | 60ms<br>2ms
 215 | Kth Largest Element in an Array | medium | P<br>P | [solution_api](_problems/prob201-300/prob215-heap_divideandconquer-medium_1.java) <br> [solution_heap](_problems/prob201-300/prob215-heap_divideandconquer-medium_2.java)
 
 ---
