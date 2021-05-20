@@ -111,3 +111,4 @@
 [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/12899) | 2 | P | [L2-오픈채팅방](all/2019_kakao_blind_recruitment/L2-오픈채팅방.java)
 [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12899) | 2 | P | [L2-짝지어_제거하기](all/2017_tipstown/L2-짝지어_제거하기.java)
 [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | 2 | P | [L2-예상_대진표](all/2017_tipstown/L2-예상_대진표.java)
+[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | 2 | P | [L2-후보키](all/2019_kakao_blind_recruitment/L2-후보키.java)
