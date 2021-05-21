@@ -21,6 +21,7 @@
 28 | Implement strStr() | Easy | FP | [solution](_problems/prob001-100/prob028-string_twopointers-easy.java)
 35 | Search Insert Position | Easy | P | [solution](_problems/prob001-100/prob035-array_binarysearch-easy.java)
 38 | Count and Say | Easy | P | [solution](_problems/prob001-100/prob038-string-easy.java)
+39 | Combination Sum | Medium | P | [solution](_problems/prob001-100/prob039-backtracking-medium.java)
 45 | Jump Game II | Medium | P | [solution](_problems/prob001-100/prob045-greedy-medium.java)
 48 | Rotate Image | Medium | P | [solution](_problems/prob001-100/prob048-array-medium.java)
 49 | Group Anagrams | Medium | P | [solution](_problems/prob001-100/prob049-string_hash-medium.java)
