@@ -28,6 +28,7 @@
 53 | Maximum Subarray | Easy | FFP | [solution](_problems/prob001-100/prob053-dp_divide&conquer-easy.java) | **need to be improved**
 55 | Jump Game | Medium | P | [solution](_problems/prob001-100/prob055-greedy-medium.java) | 
 58 | Length of Last Word | Easy | FP | [solution](_problems/prob001-100/prob058-string-easy.java) | 
+62 | Unique Paths | Medium | FFP | [solution](_problems/prob001-100/prob062-dp-medium.java) | 
 66 | Plus One | Easy | P | [solution](_problems/prob001-100/prob066-array-easy.java) | 
 67 | Add Binary | Easy | FP | [solution](_problems/prob001-100/prob067-math_string-easy.java) |
 69 | Sqrt(x) | Easy | FFP | [solution](_problems/prob001-100/prob069-math_binarysearch-easy.java) | **Newton-Raphson Method** or **Binary Search**
