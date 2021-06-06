@@ -16,6 +16,7 @@
 20 | Valid Parentheses | Easy | FP <br> P | [solution1](_problems/prob001-100/prob020-string_stack-easy_1.java) <br> [solution2](_problems/prob001-100/prob020-string_stack-easy_2.java)
 21 | Merge Two Sorted Lists | Easy | P <br> P | [solution1](_problems/prob001-100/prob021-linkedlist_recursion-easy_1.java) <br> [solution2](_problems/prob001-100/prob021-linkedlist_recursion-easy_2.java)
 22 | Generate Parentheses | Medium | P | [solution](backtracking/leetcode22.java)
+24 | Swap Nodes in Pairs | Medium | P | [solution](_problems/prob001-100/prob024-linkedlist_recursion-medium.java)
 26 | Remove Duplicates from Sorted Array | Easy | P | [solution](_problems/prob001-100/prob026-array_twopointers-easy.java)
 27 | Remove Element | Easy | P | [solution](_problems/prob001-100/prob027-array_twopointers-easy.java)
 28 | Implement strStr() | Easy | FP | [solution](_problems/prob001-100/prob028-string_twopointers-easy.java)
