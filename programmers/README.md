@@ -116,3 +116,4 @@
 [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | 2 | P | [L2-예상_대진표](all/2017_tipstown/L2-예상_대진표.java)
 [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | 2 | P | [L2-후보키](all/2019_kakao_blind_recruitment/L2-후보키.java)
 [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) | 2 | P | [L2-카카오프렌즈_컬러링북](all/2017_kakao_code/L2-카카오프렌즈_컬러링북.java)
+[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 2 | P | [L2-괄호_회전하기](all/monthly_code_challenge_s2/L2-괄호_회전하기.java)
