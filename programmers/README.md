@@ -98,6 +98,7 @@
 [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | 1 | P | [L1-크레인_인형뽑기_게임](all/2019_kakao_winter_internship/L1-크레인_인형뽑기_게임.java)
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) | 1 | P | [L1-소수_찾기](all/exercise/L1-소수_찾기.java)
 [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | 1 | P | [L1-키패드_누르기](all/2020_kakao_internship/L1-키패드_누르기.java)
+[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | 1 | P | [L1-음양_더하기](all/monthly_code_challenge_s2/L1-음양_더하기.java)
 
 ### Level 2
 
