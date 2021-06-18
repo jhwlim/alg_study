@@ -101,6 +101,7 @@
 [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | 1 | P | [L1-음양_더하기](all/monthly_code_challenge_s2/L1-음양_더하기.java)
 [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | 1 | P | [L1-내적](all/monthly_code_challenge_s1/L1-내적.java)
 [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | 1 | P | [L1-두_개_뽑아서_더하기](all/monthly_code_challenge_s1/L1-두_개_뽑아서_더하기.java)
+[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | 1 | P | [L1-소수_만들기](all/summer_winter_coding(~2018)/L1-소수_만들기.java)
 
 ### Level 2
 
