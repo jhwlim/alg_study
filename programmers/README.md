@@ -124,3 +124,5 @@
 [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | 2 | P | [L2-수식_최대화](all/2020_kakao_internship/L2-수식_최대화.java)
 [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | 2 | P | [L2-게임_맵_최단거리](all/find_programming_maestro/L2-게임_맵_최단거리.java)
 [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/1844) | 2 | P | [L2-다음_큰_숫자](all/exercise/L2-다음_큰_숫자.java)
+[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/1844) | 2 | P | [L2-N개의_최소공배수](all/exercise/L2-N개의_최소공배수.java) | 최대공약수
+
