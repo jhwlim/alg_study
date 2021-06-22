@@ -127,5 +127,7 @@
 [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) | 2 | P | [L2-게임_맵_최단거리](all/find_programming_maestro/L2-게임_맵_최단거리.java)
 [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/1844) | 2 | P | [L2-다음_큰_숫자](all/exercise/L2-다음_큰_숫자.java)
 [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/1844) | 2 | P | [L2-N개의_최소공배수](all/exercise/L2-N개의_최소공배수.java) | 최대공약수
-[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/1844) | 2 | P | [L2-피보나치_수](all/exercise/L2-피보나치_수.java) |
+[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | 2 | P | [L2-피보나치_수](all/exercise/L2-피보나치_수.java) |
+[최소값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | 2 | P | [L2-최소값_만들기](all/exercise/L2-최소값_만들기.java) |
+
 
