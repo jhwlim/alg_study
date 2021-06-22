@@ -129,5 +129,6 @@
 [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/1844) | 2 | P | [L2-N개의_최소공배수](all/exercise/L2-N개의_최소공배수.java) | 최대공약수
 [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | 2 | P | [L2-피보나치_수](all/exercise/L2-피보나치_수.java) |
 [최소값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | 2 | P | [L2-최소값_만들기](all/exercise/L2-최소값_만들기.java) |
+[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | 2 | P | [L2-행렬의_곱셈](all/exercise/L2-행렬의_곱셈.java) |
 
 
