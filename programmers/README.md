@@ -131,5 +131,5 @@
 [최소값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | 2 | P | [L2-최소값_만들기](all/exercise/L2-최소값_만들기.java) |
 [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | 2 | P | [L2-행렬의_곱셈](all/exercise/L2-행렬의_곱셈.java) |
 [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | 2 | P | [L2-최댓값과_최솟값](all/exercise/L2-최댓값과_최솟값.java) |
-
+[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | 2 | P | [L2-JadenCase_문자열_만들기](all/exercise/L2-JadenCase_문자열_만들기.java) |
 
