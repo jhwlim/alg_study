@@ -107,6 +107,7 @@
 [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | 1 | P | [L1-로또의_최고_순위와_최저_순위](all/2021_dev_matching_1/L1-로또의_최고_순위와_최저_순위.java)
 [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/77484) | 1 | P | [L1-폰켓몬](all/find_programming_maestro/L1-폰켓몬.java)
 [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 1 | P | [L1-이상한_문자_만들기](all/exercise/L1-이상한_문자_만들기.java)
+[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | 1 | P | [L1-직사각형_별찍기](all/exercise/L1-직사각형_별찍기.java)
 
 
 ### Level 2
