@@ -109,6 +109,7 @@
 [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 1 | P | [L1-이상한_문자_만들기](all/exercise/L1-이상한_문자_만들기.java)
 [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | 1 | P | [L1-직사각형_별찍기](all/exercise/L1-직사각형_별찍기.java)
 [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | 1 | P | [L1-행렬의_덧셈](all/exercise/L1-행렬의_덧셈.java)
+[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | 1 | P | [L1-x만큼_간격이_있는_n개의_숫자](all/exercise/L1-x만큼_간격이_있는_n개의_숫자.java)
 
 
 ### Level 2
