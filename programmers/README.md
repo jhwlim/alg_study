@@ -138,4 +138,5 @@
 [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | 2 | P | [L2-최댓값과_최솟값](all/exercise/L2-최댓값과_최솟값.java) |
 [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | 2 | P | [L2-JadenCase_문자열_만들기](all/exercise/L2-JadenCase_문자열_만들기.java) |
 [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) | 2 | P | [L2-숫자의_표현](all/exercise/L2-숫자의_표현.java) |
+[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | 2 | P | [L2-이진_변환_반복하기](all/monthly_code_challenge_s1/L2-이진_변환_반복하기.java) |
 
