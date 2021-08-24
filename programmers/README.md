@@ -112,6 +112,7 @@
 [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | 1 | P | [L1-x만큼_간격이_있는_n개의_숫자](all/exercise/L1-x만큼_간격이_있는_n개의_숫자.java)
 [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | 1 | P | [L1-두_정수_사이의_합](all/exercise/L1-두_정수_사이의_합.java)
 [1주차](https://programmers.co.kr/learn/courses/30/lessons/82612) | 1 | P | [L1-1주차](all/weekly_challenge/L1-1주차.java)
+[4주차](https://programmers.co.kr/learn/courses/30/lessons/84325) | 1 | P | [L1-4주차](all/weekly_challenge/L1-4주차.java)
 
 
 ### Level 2
