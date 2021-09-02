@@ -58,6 +58,7 @@
 133 | Clone Graph | Medium | P | [solution](_problems/prob101-200/prob133-graph_dfs_bfs-medium.java) | 
 134 | Gas Station | Medium | P | [solution](_problems/prob101-200/prob134-greedy-medium.java) | **need to be improved**
 136 | Single Number | Easy | P | [solution](_problems/prob101-200/prob136-array_bit-easy.java) | 
+169 | Majority Element | Easy | P | [solution](_problems/prob101-200/prob169-array-easy.java) | 
 189 | Rotate Array | Medium | FP | [solution](_problems/prob101-200/prob189-array-medium.java)
 
 ### #201~300
