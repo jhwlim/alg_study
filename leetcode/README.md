@@ -55,6 +55,7 @@
 111 | Minimum Depth of Binary Tree | Easy | P | [solution](_problems/prob101-200/prob111-tree_bfs-easy.java)
 118 | Pascal's Triangle | Easy | P | [solution](_problems/prob101-200/prob118-array-easy.java)
 121 | Best Time to Buy and Sell Stock | Easy | P | [solution](_problems/prob101-200/prob121-dp_array-easy.java)
+125 | Valid Palindrome | Easy | P | [solution](_problems/prob101-200/prob125-string_twopointers-easy.java)
 133 | Clone Graph | Medium | P | [solution](_problems/prob101-200/prob133-graph_dfs_bfs-medium.java) | 
 134 | Gas Station | Medium | P | [solution](_problems/prob101-200/prob134-greedy-medium.java) | **need to be improved**
 136 | Single Number | Easy | P | [solution](_problems/prob101-200/prob136-array_bit-easy.java) | 
