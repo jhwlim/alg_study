@@ -116,6 +116,8 @@
 [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | 1 | P | [L1-같은_숫자는_싫어](all/exercise/L1-같은_숫자는_싫어.java)
 [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | 1 | P | [L1-숫자_문자열과_영단어](all/2021_kakao_internship/L1-숫자_문자열과_영단어.java)
 [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | 1 | P | [L1-2016년](all/exercise/L1-2016년.java)
+[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | 1 | P | [L1-가운데_글자_가져오기](all/exercise/L1-가운데_글자_가져오기.java)
+
 
 ### Level 2
 
