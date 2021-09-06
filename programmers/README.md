@@ -117,6 +117,8 @@
 [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | 1 | P | [L1-숫자_문자열과_영단어](all/2021_kakao_internship/L1-숫자_문자열과_영단어.java)
 [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | 1 | P | [L1-2016년](all/exercise/L1-2016년.java)
 [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | 1 | P | [L1-가운데_글자_가져오기](all/exercise/L1-가운데_글자_가져오기.java)
+[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | 1 | P | [L1-문자열_내_p와_y의_개수](all/exercise/L1-문자열_내_p와_y의_개수.java)
+
 
 
 ### Level 2
